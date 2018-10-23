@@ -1,4 +1,4 @@
 # Mini-curso_monographaR
 
-- [Instruções](Mini-curso_monographaR/0_Intruçoes.html)
+- [Instruções](https://raw.githubusercontent.com/mreginato/Mini-curso_monographaR/master/0_Intru%C3%A7oes.html)
       
